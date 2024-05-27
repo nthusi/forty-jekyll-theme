@@ -1,13 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Adventure
+description: A consequence of my wanderlust in this here earth.
+image: assets/images/adventure1.jpg
 nav-menu: true
 ---
-
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+From the turqoise waters, and pearl white sandy beaches of Tiwi in Kenya, and to the pitch black grains, and murky waters of the Baltic sea in Germany. From the chaotic and noisy avenues of my homecity Nairobi, to the quiet and sour streets sprinkled with cartoonish houses by Gaudi in Barcelona, and to the humid, slow, and aromatic streets in Moshi. To the middleearth looking montane valleys, Death Stranding resembling tarn lakes of Mt. Kenya, to the otherworldly alpine desert of Mt. Kilimanjaro, and to the magnificent, excalibur doppleganger that is the face of Matterhorn in the Alps. To the pitchblack nightskies sprinkled with stardust of the Mara, to the endless starlit nightsky of the Amboseli, and to the naked galaxy revealing dark desert skies of the Marsabit. And to the winding and narrowing valley of Aosta, to the rustic looking, and gothic remnants of Innsbroke my adventurous spirit has dissected my introverted cocoon, and driven me to a snippet of this pale blue dot we call home.

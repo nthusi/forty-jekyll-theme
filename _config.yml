@@ -1,5 +1,4 @@
 # site settings
-remote_theme: Forty
 baseurl: "/forty-jekyll-theme"
 markdown: kramdown
 permalink: pretty

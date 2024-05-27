@@ -1,9 +1,12 @@
 # site settings
+baseurl: "/forty-jekyll-theme"
+markdown: kramdown
+permalink: pretty
 title: CODER
 subtitle: BY NIGHT DOCTOR BY DAY
 email: muindenthusi@gmail.com
 description: The medical doctor<br /> who actually codes!
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+ # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Muinde Nthusi
 street_address: P.O. Box 11427 - 00100

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Scraper
-description: A multipurpose scraper for Whatsapp Web using Python's Selenium
-image: assets/images/scraper.png
+title: Django-app
+description: A simple voting application that's publically available.
+image: assets/images/django-app.png
 ---
 
-This was my hobbyist project. I needed to get contacts from Whatsapp groups instantaneously, and I ended up spending a night building this tool, and discovering the beauty of Selenium.
+Nathan Drake had his humble beginnings, and so did I. I built my first Django web application, and shared it on both <a href="https://test.pypi.org/project/django-polls-mnthusi/">TestPyPI</a> and <a href=https://pypi.org/project/django-polls-mnthusi/ >PyPI</a>.

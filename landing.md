@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Career
-description: 'My raison detre is coalescing Kenya, Africa, health, and the fourth industrial revolution.'
+description: "My raison d'etre is building health solutions for Kenyans, Africans, and humanity as a whole through the fourth industrial revolution."
 image: assets/images/img00039.jpg
 nav-menu: true
 ---
@@ -81,7 +81,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Dr. Muinde Nthusi</h2>
 		</header>
-		<p>I was born and raised in Nairobi. And had the privilege of growing up with a personal computer from the age of 3. My exposure to computers, and gaming consoles at a young age imbued me with a confidence, calmness, and comfort behind these blue screens. My exposure to science, to medicine, to leadership, and to people sensitized me to the challenge of the world. I am on an ambitious, maybe even foolhardy, path to coalesce my boyhood obsession with my youthful idealism of developing novel therapies through computaional discovery for my fellow Africans, and humanity as a whole as a physician scientist.</p>
+		<p>I was born and raised in Nairobi. And had the privilege of growing up with a personal computer from the age of 3. My exposure to computers, and gaming consoles at a young age imbued me with a confidence, calmness, and comfort behind these blue screens. My exposure to science, to medicine, to leadership, and to people sensitized me to the challenge of the world. I am on an ambitious, maybe even foolhardy, path to coalesce my boyhood obsession with my youthful idealism of developing novel therapies through computational discovery for my fellow Africans, and humanity as a whole.</p>
 		<ul class="actions">
 			<li><a href="https://github.com/nthusi" class="button next">Get Started</a></li>
 		</ul>
